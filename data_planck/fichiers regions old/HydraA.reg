@@ -1,0 +1,43 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(139.5268200,-12.0993190,438.000") # color=magenta
+circle(139.5195800,-12.0948780,438.000")
+circle(139.5333700,-12.0883790,438.000")
+circle(139.5308800,-12.0972690,301.200") # color=cyan
+circle(141.5950700,-13.9676910,301.200") # color=cyan
+circle(141.6330400,-12.8694280,296.400") # color=cyan
+circle(138.2489600,-10.2965300,296.400") # color=cyan
+circle(139.5308000,-12.0958570,296.400") # color=cyan
+circle(137.0734900,-14.0423710,296.400") # color=cyan
+circle(137.3922500,-14.0721400,296.400") # color=cyan
+circle(141.7946700,-11.6017660,296.400") # color=cyan
+circle(141.0361300,-12.3191260,296.400") # color=cyan
+circle(140.7231600,-11.2284700,289.800") # color=cyan
+circle(142.2789900,-13.2406080,289.800") # color=cyan
+circle(141.2959400,-14.7833400,289.800") # color=cyan
+circle(137.1767700,-9.9639674,289.800") # color=cyan
+circle(138.2419100,-10.2816580,289.800") # color=cyan
+circle(141.8112000,-11.6437940,289.800") # color=cyan
+circle(141.0336200,-12.3203680,289.800") # color=cyan
+circle(138.2459100,-10.3061320,278.400") # color=cyan
+circle(138.3941300,-10.3084240,278.400") # color=cyan
+circle(137.9260200,-11.9505800,278.400") # color=cyan
+circle(136.4234500,-13.7590410,278.400") # color=cyan
+circle(140.8779000,-10.4242100,278.400") # color=cyan
+circle(138.2845500,-13.9903050,278.400") # color=cyan
+circle(141.6041000,-11.5572140,278.400") # color=cyan
+circle(141.8107800,-11.6416920,278.400") # color=cyan
+circle(137.8666300,-14.8184570,278.400") # color=cyan
+circle(142.7860000,-13.1803800,278.400") # color=cyan
+circle(136.6195800,-9.9892945,278.400") # color=cyan
+circle(137.0181000,-10.0565080,278.400") # color=cyan
+circle(137.1788500,-9.9690672,278.400") # color=cyan
+circle(137.0016500,-10.1423500,278.400") # color=cyan
+circle(138.6018600,-10.2955030,278.400") # color=cyan
+circle(138.1731500,-14.0495850,278.400") # color=cyan
+circle(141.3597500,-14.8673000,278.400") # color=cyan
+circle(137.2456300,-9.6550508,1350.000") # color=yellow
+circle(137.2340300,-9.6724937,1350.000") # color=yellow
+circle(141.0350300,-12.3026680,1350.000") # color=yellow
+circle(137.2487300,-9.6583375,1350.000") # color=yellow

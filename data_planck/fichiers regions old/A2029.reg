@@ -1,0 +1,19 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(224.7263700,4.2454111,438.000")
+circle(228.0472600,2.0524336,301.200") # color=cyan
+circle(227.2034100,7.4954531,301.200") # color=cyan
+circle(230.4667200,5.0668936,296.400") # color=cyan
+circle(230.4654800,5.0836592,289.800") # color=cyan
+circle(228.2910300,7.2284219,289.800") # color=cyan
+circle(224.1691400,5.8360933,278.400") # color=cyan
+circle(228.2883000,4.3043653,278.400") # color=cyan
+circle(227.8884600,5.3775867,278.400") # color=cyan
+circle(230.4825500,5.0645769,278.400") # color=cyan
+circle(227.5927100,7.6971386,278.400") # color=cyan
+circle(228.3106400,7.2198300,278.400") # color=cyan
+circle(226.6443100,9.4298200,278.400") # color=cyan
+circle(230.4602600,7.6900717,1350.000") # color=yellow
+circle(230.4758600,7.6602189,1350.000") # color=yellow
+circle(230.4769000,7.6737461,1350.000") # color=yellow

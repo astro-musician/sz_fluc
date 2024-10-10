@@ -1,0 +1,75 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+galactic
+circle(61.3479978,17.4380038,438.000") # color=magenta
+circle(57.1039815,16.3468117,438.000")
+circle(60.8847902,17.6995177,438.000")
+circle(61.2884168,17.4407857,438.000")
+circle(55.7515965,16.6611628,438.000")
+circle(57.0978279,16.3415248,438.000")
+circle(58.5820695,20.5864346,438.000")
+circle(59.0220282,20.4427546,438.000")
+circle(60.1863093,17.1818281,438.000")
+circle(61.3004189,17.4452839,438.000")
+circle(55.7569420,16.6507124,301.200") # color=cyan
+circle(57.8411379,16.4124508,301.200") # color=cyan
+circle(60.1385768,16.1485815,301.200") # color=cyan
+circle(58.8423369,21.8408527,301.200") # color=cyan
+circle(60.1933676,17.1900332,301.200") # color=cyan
+circle(61.3046970,17.4491422,301.200") # color=cyan
+circle(55.1974113,18.1344484,296.400") # color=cyan
+circle(55.4664984,17.5489284,296.400") # color=cyan
+circle(55.7231883,20.1243268,296.400") # color=cyan
+circle(56.1269496,17.2935714,296.400") # color=cyan
+circle(56.2978316,16.4291695,296.400") # color=cyan
+circle(56.9734460,20.1370785,296.400") # color=cyan
+circle(55.1769543,18.1225045,289.800") # color=cyan
+circle(55.4381011,17.5476522,289.800") # color=cyan
+circle(55.9004477,16.1154558,289.800") # color=cyan
+circle(55.9610373,20.7931397,289.800") # color=cyan
+circle(56.2841432,16.4223575,289.800") # color=cyan
+circle(56.4057290,16.2524509,289.800") # color=cyan
+circle(56.9512893,20.1243776,289.800") # color=cyan
+circle(57.4523803,18.8225990,289.800") # color=cyan
+circle(57.5899530,17.6191006,289.800") # color=cyan
+circle(57.8359923,18.7441790,289.800") # color=cyan
+circle(57.8518265,16.3778896,289.800") # color=cyan
+circle(57.9870949,16.0619008,289.800") # color=cyan
+circle(58.1608299,16.1861237,289.800") # color=cyan
+circle(58.5613848,15.7460068,289.800") # color=cyan
+circle(58.7368205,19.9096373,289.800") # color=cyan
+circle(59.3383927,19.9800535,289.800") # color=cyan
+circle(61.2325239,19.3931334,289.800") # color=cyan
+circle(55.1765777,18.1255126,278.400") # color=cyan
+circle(55.1854923,18.5116097,278.400") # color=cyan
+circle(55.2806610,19.0148733,278.400") # color=cyan
+circle(55.4352847,17.5395001,278.400") # color=cyan
+circle(55.8976557,16.0834372,278.400") # color=cyan
+circle(55.9171711,16.9499654,278.400") # color=cyan
+circle(55.9423014,20.8067858,278.400") # color=cyan
+circle(56.2875120,16.4250224,278.400") # color=cyan
+circle(56.3832081,19.4882017,278.400") # color=cyan
+circle(56.9551100,20.1246982,278.400") # color=cyan
+circle(57.4569405,18.8417329,278.400") # color=cyan
+circle(57.4579161,17.4638979,278.400") # color=cyan
+circle(57.7148736,21.8606885,278.400") # color=cyan
+circle(57.8347750,18.7424268,278.400") # color=cyan
+circle(58.5571610,15.7290822,278.400") # color=cyan
+circle(58.7360940,19.9025229,278.400") # color=cyan
+circle(59.0361817,15.5615393,278.400") # color=cyan
+circle(59.0411129,17.9374856,278.400") # color=cyan
+circle(59.1683100,16.9190950,278.400") # color=cyan
+circle(59.1946520,19.2090521,278.400") # color=cyan
+circle(59.3333629,19.9656965,278.400") # color=cyan
+circle(59.3359474,16.8376155,278.400") # color=cyan
+circle(59.9865886,20.0890342,278.400") # color=cyan
+circle(60.3130078,20.4228824,278.400") # color=cyan
+circle(60.8495022,18.0579026,278.400") # color=cyan
+circle(60.9316328,18.0696739,278.400") # color=cyan
+circle(61.1512469,19.3911265,278.400") # color=cyan
+circle(61.2449007,19.3915831,278.400") # color=cyan
+circle(61.3515119,17.2529852,278.400") # color=cyan
+circle(60.1039771,15.5908068,1350.000") # color=yellow
+circle(59.5259154,16.2338297,1350.000") # color=yellow
+circle(60.1166365,15.5749435,1350.000") # color=yellow
+circle(60.1040598,15.5888791,1350.000") # color=yellow

@@ -1,0 +1,43 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+galactic
+circle(242.9309959,25.0929987,438.000") # color=magenta
+circle(242.9223206,25.0901507,438.000")
+circle(242.9258248,25.1047789,438.000")
+circle(242.9319089,25.0973894,301.200") # color=cyan
+circle(245.9382385,25.4904567,301.200") # color=cyan
+circle(245.0230985,26.2180179,296.400") # color=cyan
+circle(240.5077934,25.1896591,296.400") # color=cyan
+circle(242.9306267,25.0981966,296.400") # color=cyan
+circle(243.0126800,22.0140131,296.400") # color=cyan
+circle(243.2415301,22.2410767,296.400") # color=cyan
+circle(244.0341990,27.1406093,296.400") # color=cyan
+circle(244.1379815,26.1126686,296.400") # color=cyan
+circle(242.9730132,26.5523297,289.800") # color=cyan
+circle(245.7897178,26.4665129,289.800") # color=cyan
+circle(246.4255678,24.7457738,289.800") # color=cyan
+circle(239.5225014,24.5373850,289.800") # color=cyan
+circle(240.4900345,25.1929836,289.800") # color=cyan
+circle(244.0823657,27.1267879,289.800") # color=cyan
+circle(244.1373474,26.1099795,289.800") # color=cyan
+circle(240.5143192,25.1815148,278.400") # color=cyan
+circle(240.6127761,25.2970129,278.400") # color=cyan
+circle(241.7523215,23.9425706,278.400") # color=cyan
+circle(242.3581754,21.6832640,278.400") # color=cyan
+circle(242.3688671,27.1683292,278.400") # color=cyan
+circle(243.7465390,22.9750749,278.400") # color=cyan
+circle(243.8636551,27.0232138,278.400") # color=cyan
+circle(244.0802384,27.1277894,278.400") # color=cyan
+circle(244.1824121,22.1458194,278.400") # color=cyan
+circle(246.0927371,26.8835820,278.400") # color=cyan
+circle(239.1912396,24.0784248,278.400") # color=cyan
+circle(239.5035838,24.3566016,278.400") # color=cyan
+circle(239.5283580,24.5360358,278.400") # color=cyan
+circle(239.5692632,24.2929678,278.400") # color=cyan
+circle(240.7368811,25.4683801,278.400") # color=cyan
+circle(243.7249890,22.8534125,278.400") # color=cyan
+circle(246.5400587,24.7392552,278.400") # color=cyan
+circle(239.2916364,24.7740501,1350.000") # color=yellow
+circle(239.2997706,24.7545445,1350.000") # color=yellow
+circle(244.1229490,26.1221469,1350.000") # color=yellow
+circle(239.2965434,24.7745897,1350.000") # color=yellow
